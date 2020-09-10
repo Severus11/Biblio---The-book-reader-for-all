@@ -1,2 +1,2 @@
-# PDF-Speak-aLoud
-A Python app to covert pdf/text files into speech and read out.
+# Biblio - The book reader for all !
+A Python app that reads out books to you 
