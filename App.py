@@ -1,4 +1,3 @@
-
 from tkinter import *
 from tkinter import filedialog
 import PyPDF2
@@ -82,4 +81,3 @@ if __name__ == "__main__":
   root = Tk()
   Application(root)
   root.mainloop()
-
