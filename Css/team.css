@@ -60,6 +60,7 @@ html {
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
+    /*border: 2px solid white;*/
   }
   
   .about-section {
@@ -80,6 +81,7 @@ html {
   
   .title {
     color: whitesmoke;
+    margin-top: -5%;
   }
   .centered {
     position: relative;
